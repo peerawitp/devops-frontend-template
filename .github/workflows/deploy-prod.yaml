@@ -4,7 +4,7 @@ on:
     tags:
       - "v[0-9]+.[0-9]+.[0-9]+"
 env:
-  APP_NAME: "gitops-demo-frontend"
+  APP_NAME: "gitops-frontend"
   NAMESPACE: "app-prod-14"
 jobs:
   build:
